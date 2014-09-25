@@ -1,9 +1,9 @@
-package org.nerv.rpgclient;
+package org.nerv.libgdxrpgclient.core;
 
-import org.nerv.rpgclient.item.Item;
-import org.nerv.rpgclient.monster.Monster;
-import org.nerv.rpgclient.player.Job;
-import org.nerv.rpgclient.player.Player;
+
+import org.nerv.libgdxrpgclient.core.monster.Monster;
+import org.nerv.libgdxrpgclient.core.player.Job;
+import org.nerv.libgdxrpgclient.core.player.Player;
 
 public class Main {
 

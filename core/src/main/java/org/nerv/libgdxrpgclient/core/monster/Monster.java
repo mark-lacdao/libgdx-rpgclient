@@ -1,8 +1,10 @@
-package org.nerv.rpgclient.monster;
+package org.nerv.libgdxrpgclient.core.monster;
 
-import org.nerv.rpgclient.RpgObject;
-import org.nerv.rpgclient.Skill;
-import org.nerv.rpgclient.item.Item;
+
+
+import org.nerv.libgdxrpgclient.core.RpgObject;
+import org.nerv.libgdxrpgclient.core.Skill;
+import org.nerv.libgdxrpgclient.core.item.Item;
 
 import java.util.ArrayList;
 import java.util.List;

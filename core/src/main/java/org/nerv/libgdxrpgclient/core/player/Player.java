@@ -1,9 +1,10 @@
-package org.nerv.rpgclient.player;
+package org.nerv.libgdxrpgclient.core.player;
 
 import org.apache.log4j.Logger;
-import org.nerv.rpgclient.EffectType;
-import org.nerv.rpgclient.RpgObject;
-import org.nerv.rpgclient.Skill;
+import org.nerv.libgdxrpgclient.core.EffectType;
+import org.nerv.libgdxrpgclient.core.RpgObject;
+import org.nerv.libgdxrpgclient.core.Skill;
+
 
 /**
  * Created by tenjutsu25 on 6/27/14.

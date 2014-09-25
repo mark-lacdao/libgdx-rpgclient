@@ -1,4 +1,4 @@
-package org.nerv.rpgclient.item;
+package org.nerv.libgdxrpgclient.core.item;
 
 /**
  * Created by tenjutsu25 on 6/30/14.

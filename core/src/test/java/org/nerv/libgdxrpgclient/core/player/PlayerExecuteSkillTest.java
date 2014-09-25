@@ -1,10 +1,11 @@
-package org.nerv.rpgclient.player;
+package org.nerv.libgdxrpgclient.core.player;
 
 import org.junit.Test;
-import org.nerv.rpgclient.EffectType;
-import org.nerv.rpgclient.Skill;
-import org.nerv.rpgclient.Stats;
-import org.nerv.rpgclient.monster.Monster;
+import org.nerv.libgdxrpgclient.core.EffectType;
+import org.nerv.libgdxrpgclient.core.Skill;
+import org.nerv.libgdxrpgclient.core.Stats;
+import org.nerv.libgdxrpgclient.core.monster.Monster;
+
 
 import static org.junit.Assert.*;
 

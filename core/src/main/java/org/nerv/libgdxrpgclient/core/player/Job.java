@@ -1,6 +1,8 @@
-package org.nerv.rpgclient.player;
+package org.nerv.libgdxrpgclient.core.player;
 
-import org.nerv.rpgclient.Skill;
+
+
+import org.nerv.libgdxrpgclient.core.Skill;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package org.nerv.rpgclient.item;
+package org.nerv.libgdxrpgclient.core.item;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

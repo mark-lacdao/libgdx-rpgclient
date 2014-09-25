@@ -1,4 +1,4 @@
-package org.nerv.rpgclient.map;
+package org.nerv.libgdxrpgclient.core.map;
 
 /**
  * Created by tenjutsu25 on 6/30/14.
