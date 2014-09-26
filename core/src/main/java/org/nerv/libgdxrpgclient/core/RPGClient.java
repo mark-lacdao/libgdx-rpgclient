@@ -23,7 +23,7 @@ public class RPGClient implements ApplicationListener {
 
 	@Override
 	public void render () {
-		elapsed += Gdx.graphics.getDeltaTime();
+        elapsed += Gdx.graphics.getDeltaTime();
 		Gdx.gl.glClearColor(0, 0, 0, 0);
 		Gdx.gl.glClear(GL30.GL_COLOR_BUFFER_BIT);
 		batch.begin();
